@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LectorCsvApplication<lector-csv>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tecel.api.csv.LectorCsvApplication",
+            "projectName": "lector-csv",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
